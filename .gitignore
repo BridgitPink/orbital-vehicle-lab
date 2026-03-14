@@ -205,3 +205,33 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#Project Specfifcs
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data
+data/raw/
+data/interim/
+data/processed/
+
+# Models and outputs
+models/checkpoints/
+models/exported/
+results/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env

@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python
+pandas
+numpy
+matplotlib
+scikit-learn
+pyyaml
+tqdm
+pillow
+onnx
+onnxruntime
+jupyter
+pytest
